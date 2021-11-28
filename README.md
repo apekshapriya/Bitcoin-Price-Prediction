@@ -1,7 +1,7 @@
 ## Bitcoin-Price-Prediction 
 
 
-### Prediction of closing price of bitcoin using historing data.  
+### Time series Prediction on daily data to forecast Bitcoin Price for future 30 days.
 
 
 The dataset is taken from [kaggle](https://www.kaggle.com/mczielinski/bitcoin-historical-data/download)
@@ -9,4 +9,6 @@ The dataset is taken from [kaggle](https://www.kaggle.com/mczielinski/bitcoin-hi
 
 The dataset is preprocessed into time series data. 
 
-The model architecture used is LSTM 
+
+The model architecture used is LSTM.
+
